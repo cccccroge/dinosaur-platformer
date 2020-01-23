@@ -1,0 +1,13 @@
+@font-face{
+
+    font-family: 'Eras_Demi';
+    src: url(../fonts/Eras_Demi_ITC.ttf) format('truetype');
+
+}
+
+@font-face{
+
+    font-family: 'Sim_Sun';
+    src: url(../fonts/simsun.ttc) format('ttc');
+
+}
